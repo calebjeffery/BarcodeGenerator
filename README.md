@@ -3,6 +3,8 @@
 This project generates a PDF file containing different types of barcodes using the Code128 barcode format. 
 It reads a list of barcodes and corresponding descriptions from an XML file, and creates a PDF document with the barcodes.
 
+Please note that I based this off an example found in iText in Action - 2nd Edition written by Bruno Lowagie (ISBN: 9781935182610)
+
 ## Features
 
 - Supports retrieval of the barcode list XML from either a URL or a local file.
