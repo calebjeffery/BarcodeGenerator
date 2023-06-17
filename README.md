@@ -56,7 +56,7 @@ This project uses the following dependencies:
 
 - iText PDF (version x.x.x)
 - Apache Commons Codec (version x.x.x)
-- Apache Argparse4j (version x.x.x)
+- Apache Argparse4j (version 0.8.1)
 
 ## License
 
