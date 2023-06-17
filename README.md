@@ -55,7 +55,7 @@ It reads a list of barcodes and corresponding descriptions from an XML file, and
 This project uses the following dependencies:
 
 - iText PDF (version 7.0.4)
-- Apache Commons Codec (version x.x.x)
+- Apache Commons Codec (version 1.9)
 - Apache Argparse4j (version 0.8.1)
 
 ## License
