@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BARCODES>
+    <BARCODE_DATA>
+        <Description>Barcode 1</Description>
+        <Barcode>(01)012345678901(17)221218(10)A123456</Barcode>
+    </BARCODE_DATA>
+    <BARCODE_DATA>
+        <Description>Barcode 2</Description>
+        <Barcode>(01)987654321098(17)221218(30)5(10)A123456</Barcode>
+    </BARCODE_DATA>
+    <BARCODE_DATA>
+        <Description>Barcode 3</Description>
+        <Barcode>(01)543210987654(17)221218(30)10(10)A123456</Barcode>
+    </BARCODE_DATA>
+    <!-- Add more BARCODE_DATA entries as needed -->
+</BARCODES>
