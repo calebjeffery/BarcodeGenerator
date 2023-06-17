@@ -39,7 +39,7 @@ Please note that I based this off an example found in iText in Action - 2nd Edit
 4. Run the application with the desired arguments:
 
    ```bash
-   java -jar target/barcode-generator.jar -o <output-file> -t <xml-type> -p <xml-path>
+   java -jar target/BarcodeGenerator-0.0.1-SNAPSHOT.jar -o <output-file> -t <xml-type> -p <xml-path>
    ```
 
    Replace `<output-file>` with the desired filename for the generated PDF, `<xml-type>` with either "URL" or "FILE" depending on how the XML file is retrieved, and `<xml-path>` with the URL or filepath of the barcode list XML.
@@ -47,7 +47,7 @@ Please note that I based this off an example found in iText in Action - 2nd Edit
    Example:
 
    ```bash
-   java -jar target/barcode-generator.jar -o barcodes.pdf -t FILE -p /path/to/barcodes.xml
+   java -jar target/BarcodeGenerator-0.0.1-SNAPSHOT.jar -o barcode.pdf -t FILE -p ./resources/data.xml
    ```
 
 5. The generated PDF file will be saved as `<output-file>` in the current directory.
