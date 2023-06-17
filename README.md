@@ -21,13 +21,13 @@ Please note that I based this off an example found in iText in Action - 2nd Edit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/barcode-generator.git
+   git clone https://github.com/calebjeffery/BarcodeGenerator.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd barcode-generator
+   cd BarcodeGenerator
    ```
 
 3. Build the project using Maven:
